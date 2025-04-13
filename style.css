@@ -1,6 +1,6 @@
 /* --- Base Styles & Variables --- */
 :root {
-    --primary-color: #F8931F;
+    --primary-color: #fc300c;
     --secondary-color: #f4f4f4;
     --dark-color: #222;
     --light-color: #fff;
@@ -134,7 +134,7 @@ strong {
 }
 
 .btn-secondary {
-    background-color: var(--secondary-color);
+    background-color: var(--light-color);
     color: var(--dark-color);
     border: 1px solid #ccc;
 }
